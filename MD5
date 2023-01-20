@@ -1,0 +1,12 @@
+995dead431de9f65b2f82dee2afc4f00 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+2c6c2cef8b9d9e04def879354f443c65 *NEWS.md
+32f35e9937ffb6c2c4f09db14d5f63f9 *R/datasets.R
+71504ce3e3ee7b3140ff6a042445172a *data/episodes.rda
+82a08ceaf386a95de2cc2539f90cb44f *data/loadouts.rda
+ec075d92a77ad89da4b675c760856800 *data/seasons.rda
+12f1734fda71c0ed6f50969e78582d54 *data/survivalists.rda
+52ffc7eef5310bda254ed9aebeaa9a4f *man/episodes.Rd
+d171795f552538c79f44daa6ed44303b *man/loadouts.Rd
+01b1af559608ac2707d6841b201c04a9 *man/seasons.Rd
+bd08217988efcf2108c0ac03911607df *man/survivalists.Rd
