@@ -11,9 +11,11 @@ This data frame contains the following columns:
   \item{\code{season}}{The season number}
   \item{\code{id}}{Survivalist ID}
   \item{\code{name}}{Name of the survivalist}
+  \item{\code{first_name}}{First name of the survivalist}
+  \item{\code{last_name}}{Last name of the survivalist}
   \item{\code{age}}{Age of survivalist}
   \item{\code{gender}}{Gender}
-  \item{\code{city}}{City}s
+  \item{\code{city}}{City}
   \item{\code{state}}{State}
   \item{\code{country}}{Country}
   \item{\code{result}}{Place the survivalist finished in the season}
@@ -22,11 +24,10 @@ This data frame contains the following columns:
   \item{\code{reason_tapped_out}}{The reason the survivalist tapped out of the game. \code{NA} means
   they were the winner}
   \item{\code{reason_category}}{A simplified category of the reason for tapping out}
+  \item{\code{episode_tapped}}{Episode tapped out}
   \item{\code{team}}{The team they were associated with (only for season 4)}
   \item{\code{day_linked_up}}{Day the team members linked up}
   \item{\code{profession}}{Profession}
-  \item{\code{url}}{URL of castaway page on the history channel website. Prefix URL with https://www.history.com/shows/alone/cast/}
-  \item{\code{image_url}}{URL of survivalist image from the history channel. Prefix URL with https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/}
 }
 }
 \source{
