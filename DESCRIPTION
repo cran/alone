@@ -1,7 +1,7 @@
 Package: alone
 Type: Package
 Title: Datasets from the Survival TV Series Alone
-Version: 0.2
+Version: 0.3
 Authors@R: 
   c(person(given = "Daniel",
            family = "Oehm",
@@ -19,8 +19,8 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-05-29 05:10:45 UTC; Dan
+Packaged: 2023-09-19 12:12:53 UTC; danie
 Author: Daniel Oehm [aut, cre]
 Maintainer: Daniel Oehm <danieloehm@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-05-29 15:50:09 UTC
+Date/Publication: 2023-09-19 13:50:02 UTC
