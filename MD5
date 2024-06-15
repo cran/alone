@@ -1,11 +1,11 @@
-373a07dc0b76e407408acf69419687f3 *DESCRIPTION
+d3316f8df2b2359f94e8b9fba9489e67 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-c7bfffd81417afb37e83b3326fd852fe *NEWS.md
+21b90a6670738372ae9804b46f9aa93f *NEWS.md
 1307b020c6c9da405798b2432beea2ed *R/datasets.R
-75c53a4c60f9170ea5f1e59f8bce6061 *data/episodes.rda
+a5a2a9db29e3af805857b702641dce09 *data/episodes.rda
 3f5260c491a5e02dcc2aa84ea297d53b *data/loadouts.rda
-64ce9d3207febccb8c5243605401a89b *data/seasons.rda
-93d5fbc9a0fe3c6586e34aba9bdd9887 *data/survivalists.rda
+c996184a7239074da7dd43737377e8d2 *data/seasons.rda
+207cb5be3d6fe4209bb9fb4e9c92723a *data/survivalists.rda
 5659669f20d7c6f02996e9868ca9bfef *man/episodes.Rd
 8051ea4789dce8a4f48b1cf1d5cb6b40 *man/loadouts.Rd
 c3605fc34983f319afb51c55d8b3dc88 *man/seasons.Rd
