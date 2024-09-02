@@ -58,6 +58,7 @@
 #'   \item{\code{author}}{Author of the beginning quote}
 #'   \item{\code{imdb_rating}}{IMDb rating of the episode}
 #'   \item{\code{n_ratings}}{Number of ratings given for the episode}
+#'   \item{\code{description}}{Description of the episode from IMDb}
 #' }
 #' @source \url{https://en.wikipedia.org/wiki/List_of_Alone_episodes#Season_1_(2015)_-_Vancouver_Island}
 #' @examples
@@ -77,6 +78,7 @@
 #' \describe{
 #'   \item{\code{version}}{Country code for the version of the show}
 #'   \item{\code{season}}{The season number}
+#'   \item{\code{subtitle}}{Season subtitle}
 #'   \item{\code{location}}{Location}
 #'   \item{\code{country}}{Country}
 #'   \item{\code{region}}{Region}
